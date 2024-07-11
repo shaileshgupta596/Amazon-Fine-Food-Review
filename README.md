@@ -1,5 +1,5 @@
 # Amazon-Fine-Food-Review
-Modol for predicting reviews are postive of negative.
+Model for predicting reviews are postive of negative.
 
 - Objective of this project is to learn EDA ,NLP , Machine Learning and finally Build model which can predict the given above review is Positive or Negative.
 
